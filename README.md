@@ -55,3 +55,13 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C7836?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 </div>
+
+## 📬 Contact Me / Contáctame
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-david-cespedes-turpial-b9968b29a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdavid12142007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richard_david_cespedes/)
+
+</div>

@@ -27,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=flat-square)
 
 <br>
 
@@ -35,6 +36,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![POO](https://img.shields.io/badge/Paradigm-OOP%2FPOO-4A154B?style=flat-square)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-6C757D?style=flat-square)
 
 <br>

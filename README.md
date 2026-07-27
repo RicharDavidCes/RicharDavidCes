@@ -2,6 +2,20 @@
 
 ---
 
+## 🎯 Sobre mí / About me
+
+¡Hola! Soy **Richard Cespedes**, estudiante de Ciencias de la Computación en la Universidad Central de Venezuela (UCV) y desarrollador web Full Stack. Me motiva entender cómo funcionan los sistemas desde su arquitectura lógica hasta su implementación práctica, combinando sólidas bases teóricas de programación con la construcción de software real.
+
+💡 **Mi enfoque:** Diseño y estructuración de aplicaciones web bajo la arquitectura **MVC**, gestión de bases de datos relacionales y creación de interfaces funcionales.
+
+🧠 **Aptitudes:** Disciplina analítica, aprendizaje continuo y capacidad para transformar conceptos teóricos en soluciones eficientes y escalables.
+
+🎓 **Formación:**
+- 🏛️ **Licenciatura en Ciencias de la Computación** — Universidad Central de Venezuela
+- 📜 **Diplomado en Desarrollo Web** — Uneweb
+
+---
+
 ## 🛠️ Tech Stack & Specialized Workflows / Stack Tecnológico
 
 <div align="center">

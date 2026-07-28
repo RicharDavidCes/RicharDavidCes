@@ -55,6 +55,7 @@
 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C7836?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
